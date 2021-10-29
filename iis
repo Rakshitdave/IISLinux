@@ -1,0 +1,3 @@
+#cloud-config
+Package_update: true
+packages: -nginx
